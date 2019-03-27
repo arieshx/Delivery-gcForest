@@ -1,3 +1,8 @@
+# 利用gcForest对快递单上的文本做分类
+- 实习项目，利用gcForest 对快递单上检测出来的文字分类，判断是什么字段
+- 删除了模型文件
+- 基于gcForest的实现，代码较乱，留待整理
+- 下面是gcForest的说明
 gcForest v1.1.1 Is Here!
 ========
 This is the official clone for the implementation of gcForest.(The University's webserver is unstable sometimes, therefore we put the official clone here at github)
